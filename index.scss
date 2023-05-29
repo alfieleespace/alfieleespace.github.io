@@ -127,6 +127,8 @@ header .link:hover::before {
   width: 100%;
   background-image: url("./images/banner.jpg");
   background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
   .link {
     color: var(--secondary);
   }
